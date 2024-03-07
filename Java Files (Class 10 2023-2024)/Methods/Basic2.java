@@ -1,0 +1,1 @@
+// WAP to create a function named 'wentParis' which prints 'I went to Paris' 3 times. Call the function from main() and pass 'Paris' as a parameter to achieve this.

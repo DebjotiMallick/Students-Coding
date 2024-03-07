@@ -1,0 +1,1 @@
+// WAP to accept 10 different numbers in an array. Display the sum of all the numbers which are divisible by either 3 or 5.

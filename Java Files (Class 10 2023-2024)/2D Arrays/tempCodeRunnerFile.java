@@ -1,0 +1,1 @@
+Sum of left diagonal: "+ sum1);
